@@ -1,7 +1,7 @@
 <template>
 	<div class="side-bar-container">
 		<div class="title">
-			<el-avatar src="https://z3.ax1x.com/2021/08/31/hdu3a6.jpg"></el-avatar>
+			<el-avatar src="https://github.com/atorzhang/Document/blob/main/Imgs/2023/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240312160655.jpg?raw=true"></el-avatar>
 			<router-link type="primary" class="leave-message" to="/message">
 				<i class="el-icon-chat-dot-round"></i>
 				博主留言
@@ -26,31 +26,19 @@
 				<li>
 					<el-tag type="success">
 						<i class="el-icon-grape"></i>
-						公众号: Gopher毛
+						公众号: Jom工作室（已注销）
 					</el-tag>
 				</li>
 				<li>
 					<el-tag type="warning">
 						<i class="el-icon-ice-tea"></i>
-						qq邮箱: 2557523039@qq.com
-					</el-tag>
-				</li>
-				<li>
-					<el-tag>
-						<i class="el-icon-watermelon"></i>
-						QQ交流群1: 1007576722
-					</el-tag>
-				</li>
-				<li>
-					<el-tag>
-						<i class="el-icon-watermelon"></i>
-						QQ交流群2: 579480724
+						qq邮箱: 459741134@qq.com
 					</el-tag>
 				</li>
 				<li>
 					<el-tag type="danger">
 						<i class="el-icon-cherry"></i>
-						电话: 18836288306
+						电话: 16605911669
 					</el-tag>
 				</li>
 			</ul>
@@ -62,7 +50,7 @@
 				</div>
 				<!-- v-for="o in 1" :key="o"  -->
 				<div class="text item">
-					如果没有奇迹，那就去创造！
+					雷子放心去！
 				</div>
 			</el-card>
 		</div>
@@ -91,22 +79,6 @@ export default {
 				{
 					id: 4,
 					path: "https://z3.ax1x.com/2021/09/26/46AM0P.jpg",
-				},
-				{
-					id: 5,
-					path: "https://z3.ax1x.com/2021/08/31/hUA9mD.jpg",
-				},
-				{
-					id: 6,
-					path: "https://z3.ax1x.com/2021/09/26/46AT9e.jpg",
-				},
-				{
-					id: 7,
-					path: "https://z3.ax1x.com/2021/08/31/hUAktA.jpg",
-				},
-				{
-					id: 8,
-					path: "https://z3.ax1x.com/2021/09/26/46ECcj.jpg",
 				}
 			],
 			value: new Date(),

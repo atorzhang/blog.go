@@ -5,20 +5,20 @@
 				<div class="grid-content bg-purple-dark footer">
 					<ul class="friends-link">
 						<li>
-							<a href="https://github.com/mao888">胡超Github</a>
+							<a href="https://github.com/atorzhang">atorzhang Github</a>
 						</li>
 						<li>
-							<a href="https://space.bilibili.com/289144374?spm_id_from=333.1007.0.0">哔哩哔哩</a>
+							<a href="https://bilibili.com">哔哩哔哩</a>
 						</li>
 						<li>
 							<a href="https://wk-blog.vip">☆往事随風☆</a>
 						</li>
 						<li>
-							<a href="https://blog.csdn.net/qq_45696377?spm=1000.2115.3001.5343">CSDN</a>
+							<a href="https://www.cnblogs.com/jomzhang">jomz 博客园</a>
 						</li>
 
 					</ul>
-					<h2 class="compony">&copy;·HuChao版权所有</h2>
+					<h2 class="compony">下一个十年</h2>
 				</div>
 			</el-col>
 		</el-row>
