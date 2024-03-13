@@ -3,3 +3,4 @@
 *.log
 dist/
 config.yaml
+/bluebell_backend/bin/*
